@@ -6,3 +6,5 @@
 /* Lift the hero photo exposure and ingredient colour on every screen. */
 .hero-slide img{filter:brightness(1.28) saturate(1.08)}
 .pill.wolt{background:#007eae;color:#fff}.pill.wolt:hover{background:#00658c}.pill.wolt:focus-visible{outline-color:#007eae}
+
+.story-text p+p{margin-top:18px}.story-text{font-size:16px;line-height:1.75}
