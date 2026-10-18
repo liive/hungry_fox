@@ -1,0 +1,67 @@
+{
+  "city": "Kaunas",
+  "instagram": "https://www.instagram.com/hungryfox.kaunas/",
+  "lunch": null,
+  "reservation": null,
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/hungry-fox/assets/food-01.webp",
+      "source": "https://imageproxy.wolt.com/assets/66be1e84f9504b2b3f0b7861",
+      "alt": "Sūrainis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/hungry-fox/assets/food-02.webp",
+      "source": "https://wolt-menu-images-cdn.wolt.com/menu-images/62e8e5091615ea10f1d9c0af/353cb9d6-1e7c-11ee-9374-6e707440d8b5_hungry_fox_2023_07_06_wolt_5.jpg",
+      "alt": "Nr. 4 Pepperoni"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/hungry-fox/assets/food-03.webp",
+      "source": "https://wolt-menu-images-cdn.wolt.com/menu-images/62e8e5091615ea10f1d9c0af/daefc0b8-1e7b-11ee-b462-7ea3bd835d39_hungry_fox_2023_07_06_wolt_1.jpg",
+      "alt": "Nr. 1 Margarita"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/hungry-fox/assets/food-04.webp",
+      "source": "https://imageproxy.wolt.com/assets/66be15f5e616be006ed537e1",
+      "alt": "Traškios vištienos mėsainis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/hungry-fox/assets/food-05.webp",
+      "source": "https://imageproxy.wolt.com/assets/66be18b1e616be006ed537f3",
+      "alt": "Halloumi mėsainis"
+    }
+  ],
+  "slug": "hungry-fox",
+  "name": "Hungry FOX",
+  "address": "Šiaurės pr. 8D-1, Kaunas",
+  "phone": "+37069000020",
+  "facebook": "https://www.facebook.com/hungryfox.pica.mesainiai",
+  "wolt": "https://wolt.com/lt/ltu/kaunas/restaurant/hungry-fox",
+  "menu": "https://wolt.com/lt/ltu/kaunas/restaurant/hungry-fox",
+  "cuisine": "Picos ir mėsainiai",
+  "description": "Kai alkis turi charakterį. Picos, mėsainiai ir traškūs užkandžiai Kaune.",
+  "story_title": "Picai ar mėsainiui?",
+  "story": "Pepperoni pica, sūrainis ar traškios vištienos mėsainis - čia pasirinkimas priklauso tavo apetitui. Norintiems kitokio kąsnio turime ir mėsainį su halloumi sūriu.",
+  "sources": [
+    "https://wolt.com/lt/ltu/kaunas/restaurant/hungry-fox",
+    "https://margumynas.lt/kaunas/hungry-fox-kaunas/",
+    "https://restaurantguru.com/Hungry-FOX-Kaunas-Kaunas"
+  ],
+  "brand_update": {
+    "checked": "2026-10-18",
+    "source": "https://www.facebook.com/hungryfox.pica.mesainiai",
+    "logo": "assets/logo-facebook.jpg",
+    "palette": [
+      "#38ed00",
+      "#171a14",
+      "#f5f0e6"
+    ],
+    "menu_status": "Full Facebook menu not verified. Public albums contained daily specials; About unavailable and some individual photos required login. Full menu pending exact post or supplied images."
+  },
+  "hero_photo": {
+    "file": "assets/popular-burger-wolt.jpg",
+    "source": "https://imageproxy.wolt.com/assets/66be1de43789bb2748cdbb4f",
+    "menu": "https://wolt.com/lt/ltu/kaunas/restaurant/hungry-fox",
+    "name": "Pelėsinis mėsainis",
+    "popular_verified": "2026-10-18"
+  }
+}
